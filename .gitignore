@@ -1,5 +1,9 @@
-# Cryptographic Storage & Session Logs
+# Cryptographic Storage & Local Logs
 secure_chat_history.enc
+chat_history.json
+
+# Local Environment Profiles
+.env
 
 # Local SSL/TLS Transport Certificates
 *.pem
@@ -12,6 +16,3 @@ __pycache__/
 .venv/
 env/
 venv/
-
-# Streamlit Local Configuration
-.streamlit/
