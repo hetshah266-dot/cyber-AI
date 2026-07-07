@@ -1,0 +1,17 @@
+# Cryptographic Storage & Session Logs
+secure_chat_history.enc
+
+# Local SSL/TLS Transport Certificates
+*.pem
+*.crt
+*.key
+
+# Python Environment & Cache
+__pycache__/
+*.pyc
+.venv/
+env/
+venv/
+
+# Streamlit Local Configuration
+.streamlit/
